@@ -1,0 +1,110 @@
+--rain
+Precipitation in the form of liquid water drops with diameters greater than 0.5 millimetres.
+To fall from the clouds in drops of water.
+--house
+The abode of a human being, their place of residence.
+To keep within a structure or container; to contain or cover.
+A place that a human built to live in.
+A place where an activity is accomplished, whether actual, as a pub, or virtual, as a website.
+A familiar descendance, for example, a Royal House.
+To admit to residence; provide housing for.
+One of 12 equal areas into which the zodiac is divided.
+--zodiac
+One of the twelve signs, or houses, each corresponding to one of the constellations along the zodiac.
+A belt-shaped region in the heavens on either side to the ecliptic; divided into 12 constellations or signs for astrological purposes.
+--coffee
+A beverage made by infusing the beans of the coffee plant in hot water.
+A flowering plant of the genus Coffea whose seeds are used to make coffee.
+--magnesium
+A chemical element with the symbol Mg and atomic number 12, a light, flammable, silvery metal.
+--computational linguistics
+An interdisciplinary field which deals with scientific study and modeling of human language from a computational perspective.
+--animal shelter
+A protection providing housing for animals in bad weather. (Source: RRDA)
+A facility that houses homeless, lost or abandoned animals; primarily a large variety of dogs and cats and other animals used as pets.
+--Archipelago
+A group of many islands including the waters that surround them.(Source: DOE)"
+A cluster of several islands.
+--reservation
+To set aside for a specific purpose.
+An arrangement made in advance to have something at a certain time where only a limited number are available, such as a seat in a transport, a table at a restaurant or a room in a hotel.
+--treasure
+A very important or valuable thing or person.
+--gem
+A valuable stone that has been cut and polished and is used in jewellery.
+--gemstone
+A valuable stone that has been cut and polished and is used in jewellery.
+--necessary
+Needed for a purpose or a reason.
+That cannot be avoided.
+essential
+Needed for a purpose or a reason.
+Of basic importance.
+--obligatory
+Needed for a purpose or a reason.
+--inevitable
+That cannot be avoided.
+--required
+Needed for a purpose or a reason.
+--unavoidable
+That cannot be avoided.
+--compulsory
+Needed for a purpose or a reason.
+--inescapable
+That cannot be avoided.
+--mandatory
+Needed for a purpose or a reason.
+--inexorable
+That cannot be avoided.
+--indispensable
+Needed for a purpose or a reason.
+--predetermined
+That cannot be avoided.
+--ineluctable
+That cannot be avoided.
+--vital
+Needed for a purpose or a reason.
+Extremely important.
+--conscious
+Noticing something; aware of something.
+Able to use one's senses and mental abilities to perceive one's surroundings and understand the current situation.
+(doing or feeling something) in a deliberate or controlled way.
+Being particularly interested in something; caring about something a lot.
+--aware
+Able to use one's senses and mental abilities to perceive one's surroundings and understand the current situation.
+--conscious of
+Noticing something; aware of something.
+--aware of
+Noticing something; aware of something.
+--alert to
+Noticing something
+aware of something.
+--deliberate
+(doing or feeling something) in a deliberate or controlled way.
+--intentional
+(doing or feeling something) in a deliberate or controlled way.
+--intended
+(doing or feeling something) in a deliberate or controlled way.
+--calculated
+Arrived at or determined by mathematical calculation.
+Carefully thought out or planned.
+--volitional
+(doing or feeling something) in a deliberate or controlled way.
+--wilful
+doing or feeling something) in a deliberate or controlled way.
+--on purpose
+(doing or feeling something) in a deliberate or controlled way.
+With intention; in an intentional manner.
+--terrain
+Land or an area of a particular type.
+A tract of land of undefined size.
+--determination
+The quality of insisting to do or achieve something.
+The act of intending to do something.
+--distinct
+Very clear
+--demonstrate
+To display the method of using an object.
+To give a proof that something is true.
+To prove and cause to be accepted as true.
+To take part in a public demonstration.
